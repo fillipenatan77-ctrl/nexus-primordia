@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Build output
+*.plugin
+
+# Node (caso adicione build/test scripts no futuro)
+node_modules/

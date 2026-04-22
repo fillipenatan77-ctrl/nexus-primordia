@@ -1,0 +1,11 @@
+{
+  "name": "nexus-primordia",
+  "version": "0.1.0",
+  "description": "NEXUS PRIMORDIA — sistema pessoal de leitura/cards/Whatsapp/Diário/Consultor over Google Apps Script + Notion + Drive. Ciclo 272 dias. Skills: status, consultor, pulse, diário.",
+  "author": {
+    "name": "Fillipe Caldeira",
+    "email": "fillipenatan77@gmail.com"
+  },
+  "homepage": "https://www.notion.so/3427e2094f0081f997cfc0c675ae8c30",
+  "keywords": ["nexus", "primordia", "diario", "consultor", "ciclo-272", "apps-script", "personal-os"]
+}
